@@ -1,0 +1,5 @@
+.DS_Store
+**/.piper-venv/
+**/models/
+**/__pycache__/
+test-results/

@@ -1,8 +1,7 @@
-LEESHELD AI – KERN 3
-
-1. Zet deze map op je Mac.
-2. Dubbelklik Maak_AI_stem.command. Als macOS blokkeert: rechtermuisklik > Open.
-3. Wacht totdat alle geluidsbestanden klaar zijn. Internet is alleen bij deze eerste stap nodig.
-4. Voor betrouwbaar offline gebruik op iPad: plaats de complete map op een lokale webserver of installeer als offline webapp. Alleen index.html openen vanuit Bestanden kan audio blokkeren door Safari-beveiliging.
-
-Let op: zolang de audio-map leeg is, gebruikt de app nog de standaard browserstem.
+Leesheld bevat nu 154 echte Nederlandse AI-audiobestanden (circa 13,4 MB).
+Upload de volledige map Leesheld_PWA_GitHub naar dezelfde plaats in je bestaande repository.
+Open daarna https://yasinusta.github.io/Leesheld/Leesheld_PWA_GitHub/ in Safari.
+Tik op Download alle stemmen en wacht tot alle 154 bestanden gereed zijn.
+Lees README_GITHUB_IPAD.md voor de upload en iPad-test.
+Lees AUDIO_LICENSE.md voor herkomst, CC0 en de uitspraakcontrole.
+Zelf audio genereren is niet nodig; Maak_AI_stem.command is optioneel.

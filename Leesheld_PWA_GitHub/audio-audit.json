@@ -1,0 +1,3292 @@
+{
+  "baan": {
+    "text": "baan",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "a",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "7d364d234367abffd6516bc2621470912256a67c296c58497175084bd3c36aaf",
+    "input_sha256": "63c95f05c511b250b4b05ba4dd95e9694de8b7dec5e8e5eed811b68530ae26ba"
+  },
+  "baas": {
+    "text": "baas",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "a",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.712,
+    "bytes": 75540,
+    "sha256": "55c3eaef7f5f01fdc9215d77f0a37436c095ad442949bc6060c55aa26b0a3741",
+    "input_sha256": "9efc57acf6119c14342345310437fefe787e9dd956359897ac53031704712b8f"
+  },
+  "beek": {
+    "text": "beek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "e",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.445,
+    "bytes": 63764,
+    "sha256": "96ab1b25ca85ac953988bf96b337338a7c47fed77ad65aa872a191a9bc00a5c4",
+    "input_sha256": "402e78620181bac969cfbd5f12623b20387a37a034ccad1fb14b4f311606755d"
+  },
+  "beer": {
+    "text": "beer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "e",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.654,
+    "bytes": 72980,
+    "sha256": "e8e941744329ebe11adb6b0872f8f9daf05f7e485c4c5cd068a9e80122d08495",
+    "input_sha256": "2514f5907002c5a47f487ab287c55f2ae2cca465b6278764ddf783fbc7dfb911"
+  },
+  "beet": {
+    "text": "beet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "e",
+        "ː",
+        "t"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "02227f89eab81aeac433dddaef146f677b66caf6929396876235245527208780",
+    "input_sha256": "936f0ac37c058fe1e8d8b1a92a1e862f84e5448bf78c8a8d655604fe5efb2221"
+  },
+  "bek": {
+    "text": "bek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "ɛ",
+        "k"
+      ]
+    ],
+    "seconds": 1.329,
+    "bytes": 58644,
+    "sha256": "a5754c3df3adfcdcd229a98325dc78e07197d8282e5aa601ad195286808b56e7",
+    "input_sha256": "a04b3d52691fb8cf31c4aaf3be0fdd260ad8bcb4404dec04af5942c7ad3c0c12"
+  },
+  "ben": {
+    "text": "ben",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.166,
+    "bytes": 51476,
+    "sha256": "c3b1eaff9ddd1dec5175ab411d1f3d5388e2a36326dbb01d6401c6837504c0fa",
+    "input_sha256": "e8e4f530bbc8662b008811381b26c8db13ab892e68bb90f03fd5fd5185d004af"
+  },
+  "bes": {
+    "text": "bes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "ɛ",
+        "s"
+      ]
+    ],
+    "seconds": 1.538,
+    "bytes": 67860,
+    "sha256": "f380178680a7b3fc813cafa0b409678e5f51a4b2f3111f30af75c3f7c2ba4af7",
+    "input_sha256": "467fbe81d1cde8d974cf3c6b0d5285f78c39a0965bdac1e871269189c39a1a38"
+  },
+  "bij": {
+    "text": "bij",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "ab1e8ef603b436785b12c4ec0aa77d101206c03954416e8b83baa7ea5f8797b6",
+    "input_sha256": "829997ce445633203024f3b457f49443e8c9bbbce5d4798d46e9b66adf1aa14a"
+  },
+  "bijt": {
+    "text": "bijt",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "t"
+      ]
+    ],
+    "seconds": 1.619,
+    "bytes": 71444,
+    "sha256": "f2868b32107f1616c425639c6b452b16302eb451f383040d9250a0bb5f50c16a",
+    "input_sha256": "172cd92082d6e1034b7fe55986efd36f31f90ba8b0fae9cb20d2e475639d9dd9"
+  },
+  "boek": {
+    "text": "boek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "u",
+        "k"
+      ]
+    ],
+    "seconds": 1.294,
+    "bytes": 57108,
+    "sha256": "8ab12ee2b3df89d8bc44e2c82b6af0d5c7004a7fcb5ffd588e2bba319a13689f",
+    "input_sha256": "7c3c86cf2dceff8669e608ac81dacf705c6e7f0c969c59cce060a3dfcfe3b3f5"
+  },
+  "boem": {
+    "text": "boem",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "u",
+        "m"
+      ]
+    ],
+    "seconds": 1.375,
+    "bytes": 60692,
+    "sha256": "2bbd5247cf05a69063a2576006f3a2baa260a81e1d31998f9e8cd621f8b882c4",
+    "input_sha256": "52c1196c410eb661452426501b42ed638cc500e68dbcfbe10a7873ae5de64080"
+  },
+  "boen": {
+    "text": "boen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "u",
+        "n"
+      ]
+    ],
+    "seconds": 1.271,
+    "bytes": 56084,
+    "sha256": "e8bf3570f7bcb98400ad5d01eb92fbb6c58b0f5127974be8a304c4e2d1d4800c",
+    "input_sha256": "89637ba10f5d9bb14a42a233c86222535473f5492a199e14ed0c5f8aa6a26505"
+  },
+  "boer": {
+    "text": "boer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "u",
+        "r"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "d358c6eac4fc3e2dbcfbc18c1b1157835d405159c4e17c40d13ee525ac1103c4",
+    "input_sha256": "15cb0fb59b03c2be58eed971961c37484e170afad9e37c5ef16929c4aa8c1a7d"
+  },
+  "boom": {
+    "text": "boom",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "o",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "986a11777405a56da077fe695b43452d6e120ef99fb643c9a7b41e44a6e0ecd2",
+    "input_sha256": "43312a938a79e00a116bf570ac6f5e03a12ef01a0a5c06bf5944dd96240851c0"
+  },
+  "boon": {
+    "text": "boon",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "o",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "a0e468d712d3869c611085c8400a9a094f50a2c2d1ceb8d243023ac4cadc224d",
+    "input_sha256": "eed4bc19ce6e8794d3aa5f0d57473af520b4fc8877eae4f06967f264d187aa0d"
+  },
+  "boor": {
+    "text": "boor",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "o",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.491,
+    "bytes": 65812,
+    "sha256": "7e7192c891491c668d76cb276a9511d771d11f1a09198ba9d734be2c740f9eb4",
+    "input_sha256": "2207ae806a13863586ea9386f282db4d52e8ffb751eb160fbae63ee137e98660"
+  },
+  "boos": {
+    "text": "boos",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "b",
+        "ˈ",
+        "o",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.689,
+    "bytes": 74516,
+    "sha256": "b8304f215d146cbf0540eca77f50e35331be1b433e3e070afb54e3dfe9da3e83",
+    "input_sha256": "6c577f14466994b47532522116526c29a938185ac18699b64aba014becf4095f"
+  },
+  "daan": {
+    "text": "daan",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.549,
+    "bytes": 68372,
+    "sha256": "3366f65dd5d796116aee49619bc6da18c0cec6db33cc8d83de8cb8934792b9ae",
+    "input_sha256": "61efa41d2714ee296536aa7c9116b0cb7345dcbcbd0e408058a3eb9c26654010"
+  },
+  "daar": {
+    "text": "daar",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.561,
+    "bytes": 68884,
+    "sha256": "3fdb9da0b84da4c848ff89afd15e54440b6dfad79601a01be489270ded74b85a",
+    "input_sha256": "3126dbad721d9727fa4e4cb8e6888e7927f1f0f992a21680ee46c10403a436e7"
+  },
+  "deen": {
+    "text": "deen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "e",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.665,
+    "bytes": 73492,
+    "sha256": "9ce8e1b2b53671ec6d0a6416013600d44c4a0ab19a752622e83f5ddbe2a6667d",
+    "input_sha256": "9c2febce06d296cdde539ca89e00b902b2deca04538f4a6bb0de52672a9b0f7b"
+  },
+  "dek": {
+    "text": "dek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɛ",
+        "k"
+      ]
+    ],
+    "seconds": 1.387,
+    "bytes": 61204,
+    "sha256": "e507607b0b7b5f0f8d550bed4943dc18f302e000e1f50eea25d47f2e3c6e30f5",
+    "input_sha256": "b9d49c92e1d3d0ad852e80e9387e096021290430e25a9f6a9357118e4398f12a"
+  },
+  "den": {
+    "text": "den",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.468,
+    "bytes": 64788,
+    "sha256": "951ae0c3794eab96bdc708155441343d463b5982a93d3dedbac497497a612a8f",
+    "input_sha256": "f41eef4cff048bd2aa05172dcba9827dbf172e3456a9d8548009ea6c7670c16b"
+  },
+  "dij": {
+    "text": "dij",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.491,
+    "bytes": 65812,
+    "sha256": "d8bb46f8d538e8cc94378f5e1c8e94ed0815045b9c644131a69e2460f8e7f5a1",
+    "input_sha256": "94e230b4f06a67491c13fe7816ced20b8ab0e0c0274024bc5d0ce3f1a8fab1e5"
+  },
+  "dijk": {
+    "text": "dijk",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.503,
+    "bytes": 66324,
+    "sha256": "1d69d00f9ca8a3c4a9db0f0791e41306c09eeeb08b58e133634a49409ea85de6",
+    "input_sha256": "628c4f7e1db56ee7241bbbec5d9bb082328efa8a7cadf830fabd63104217b74f"
+  },
+  "dik": {
+    "text": "dik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.41,
+    "bytes": 62228,
+    "sha256": "d1c13399e169f9df7e454cef040944288bf6ef70e4df94c8621dd7369a4f193b",
+    "input_sha256": "7194d7636d93027ffe50877db013d87f02c0a0968ad065b815e875c7c11e4d07"
+  },
+  "dim": {
+    "text": "dim",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɪ",
+        "m"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "37f871736be4ef3ab14229656ad1fe184fde8bb43fb390dfefc42399fa6ad5b5",
+    "input_sha256": "b05409e886c5f9628232aef4c90caeb1347e9d557584d4c9984a57e3b5738fce"
+  },
+  "dip": {
+    "text": "dip",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "ɪ",
+        "p"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "67c0656648ffe7f5fc58420d5ceb69325598b5340a854a7ea36231f3bb3e5876",
+    "input_sha256": "2a83408ffb06f50aeec49f1f67b839bbc3f09b3aace34d9b0c8abab551245e05"
+  },
+  "dit": {
+    "text": "dit",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ɪ",
+        "t"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "ec83000927bcd380e303bc55ced9abb33c52496cf17dc25fda57b32fe7462769",
+    "input_sha256": "db60374edd5265563fd1c4dddeffea3c653680632ece9a3aa17d42b2a4769196"
+  },
+  "doe": {
+    "text": "doe",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "u"
+      ]
+    ],
+    "seconds": 1.329,
+    "bytes": 58644,
+    "sha256": "c593566c003e94a91886bad7dea4daf5ec98adc2f435bbd608875c3f6cfaf192",
+    "input_sha256": "f2d83aece8eef3737d8e63062a2c193b4553a961f9eab823747e371bab457e1c"
+  },
+  "doek": {
+    "text": "doek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "u",
+        "k"
+      ]
+    ],
+    "seconds": 1.317,
+    "bytes": 58132,
+    "sha256": "782a81aded5bfbb77548c50d1d9ed025831549507735f43ce3b570dc0c171b9f",
+    "input_sha256": "6354a755bc0807ecd288acca26c4fe347abefffce010dcee7245944458d559b5"
+  },
+  "doen": {
+    "text": "doen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "u",
+        "n"
+      ]
+    ],
+    "seconds": 1.352,
+    "bytes": 59668,
+    "sha256": "3c3cc57b12ff1c3c6c9abb960a75b43be20bd06d50aa95b5ff6e1458e1a8a3d6",
+    "input_sha256": "6d876cc0fac46f389b84a889f4d8e14aa5c88b11505ac0bb6b64e96f96d89486"
+  },
+  "doet": {
+    "text": "doet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "u",
+        "t"
+      ]
+    ],
+    "seconds": 1.468,
+    "bytes": 64788,
+    "sha256": "18f0ed230c5b8a1d24af46cbde00d5d09d864761de298ff3c2a7d753dc93c1e9",
+    "input_sha256": "061fea7e4f51e677e9be4bf75879ec8e8f65a8e984fb02428fd2e228fb195bf7"
+  },
+  "doop": {
+    "text": "doop",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "o",
+        "ː",
+        "p"
+      ]
+    ],
+    "seconds": 1.398,
+    "bytes": 61716,
+    "sha256": "f4d5dfd8314d1e7670ee1b1bed2373eef64a5b5e8877c8210ab921c11d19197f",
+    "input_sha256": "2b5d38405f713bd213daa5aca66dd8e442c7c58c8802a54ce741a2476f9a2859"
+  },
+  "door": {
+    "text": "door",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "o",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.549,
+    "bytes": 68372,
+    "sha256": "40e01318969baa5bc8b421bdaa8c6409d17a659c30806427ff01aac66f85bbec",
+    "input_sha256": "576cbd5fd9a9b45bea934fc36aa1745f6499100b6ae40b1419761090111e0065"
+  },
+  "doos": {
+    "text": "doos",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "d",
+        "ˈ",
+        "o",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.677,
+    "bytes": 74004,
+    "sha256": "5a266b94fbf9d3e1f986ac51411a00401691267fea1ce6457ce90643775a7236",
+    "input_sha256": "95335742df710514e66957231ec3ad334caa28350e61cbdef764287b376a81ec"
+  },
+  "en": {
+    "text": "en",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.085,
+    "bytes": 47892,
+    "sha256": "a085954b2b45f549604a2ab1af9f104390dbc96e06e623f087130f5ba730716b",
+    "input_sha256": "9f76797a2bc2e0ed3305b0b5055439669847ba73b4a7c93b8dabcf5bba126539"
+  },
+  "es": {
+    "text": "es",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɛ",
+        "s"
+      ]
+    ],
+    "seconds": 1.433,
+    "bytes": 63252,
+    "sha256": "23bad831877828437ec17ccd531f3befdd86b009ec4158de243592134d91ab57",
+    "input_sha256": "9b879e335c7d44a66477f35615dd510a6a3308b267afe39c5c6b8027aecf9cb9"
+  },
+  "haan": {
+    "text": "haan",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "a",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.398,
+    "bytes": 61716,
+    "sha256": "9c4a76f80c00840dd967366f5d4eded175e8d3aee277df571de29c026eba4a69",
+    "input_sha256": "8f47fefd47e0fc2b5654f21b6d631ab32824e981ee2214501dd7e79634e92bb5"
+  },
+  "haar": {
+    "text": "haar",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "a",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.352,
+    "bytes": 59668,
+    "sha256": "07d93188b4294c2d46d13a1f645e60558cd7e7154a3176ec0303342f3a4b1f44",
+    "input_sha256": "ee8035ef10c964ff4cb5b14801e0d1159e81b913690d84b4aba0ded222686d8f"
+  },
+  "haas": {
+    "text": "haas",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "a",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.677,
+    "bytes": 74004,
+    "sha256": "43ace55bdd8fef12d1bab8c42073d700e58401d76677fdbc84e1ee9448c3c179",
+    "input_sha256": "39fc43e0a32066c460ba565e382b08650541e9789e4b0492969d19423c378921"
+  },
+  "heen": {
+    "text": "heen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "e",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.433,
+    "bytes": 63252,
+    "sha256": "3347c12b7bd1467fe754d187cd442b05fd5f5314eee310b94d08e66cb41ad4c2",
+    "input_sha256": "6ab6334370d4edde75aac4dd23654a0e2444a1303d0b38adc1d42244ebdf4180"
+  },
+  "hees": {
+    "text": "hees",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "e",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.526,
+    "bytes": 67348,
+    "sha256": "797ee0bc7695c56a65f8888268c1fd7de57644aa9a4e23be0bd2acb61b526296",
+    "input_sha256": "f05c8c5d2490a7319b0e8ccd5e2be1f8c9b3d2da7677eba60ad7493a49a34c02"
+  },
+  "hen": {
+    "text": "hen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.062,
+    "bytes": 46868,
+    "sha256": "d28fa6095257b9d66490bc6a21355f96fdb8661a218bb1ec60cee6f21a4bd42c",
+    "input_sha256": "c4b05cb1d9f2f23c0f0521375092bd918f54ced24f971bc84658123ad7e735e2"
+  },
+  "hes": {
+    "text": "hes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "ɛ",
+        "s"
+      ]
+    ],
+    "seconds": 1.561,
+    "bytes": 68884,
+    "sha256": "108578f95a5ef79b5135537cdb399d70965e8f423ff2f154e6fd7d93ed204977",
+    "input_sha256": "6e26792aceaa6b6e1ee11a542a6090a9fffca9db1941ef46c74f67d78caf77b3"
+  },
+  "hij": {
+    "text": "hij",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.085,
+    "bytes": 47892,
+    "sha256": "2623ed14fc4448ba731d7e1fcfacfcabbf13560e2bc7b66fc950ac1b63598cfe",
+    "input_sha256": "1515aaf986ac0b958841e77af167f6afdf290f59eacb8e1c38334eda62c2e5a6"
+  },
+  "hijs": {
+    "text": "hijs",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ɛ",
+        "ɪ",
+        "s"
+      ]
+    ],
+    "seconds": 1.526,
+    "bytes": 67348,
+    "sha256": "70d7644055e79a01d7ce470817d2ab52e80c2f9dad606c6e2b71c538a2065d77",
+    "input_sha256": "1fa6270cb3eed6aa1050fc3623b5ebed6ebf8ba043b5d4ace670a8f931f9d04e"
+  },
+  "hik": {
+    "text": "hik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.317,
+    "bytes": 58132,
+    "sha256": "96c769746c99b70222d621882eb16187076e072b29c9188915f43ca2a290b169",
+    "input_sha256": "70d4096b68ef6e1fa75afce13cee1e176138c907275b409d45b6318a71206133"
+  },
+  "hip": {
+    "text": "hip",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "ɪ",
+        "p"
+      ]
+    ],
+    "seconds": 1.41,
+    "bytes": 62228,
+    "sha256": "6f9323933f420ac61c0588519a4b2178ab016d884a573f339cae7b1c28cb57cf",
+    "input_sha256": "90b2968cb597b55607d19be7a477cb5625c00c6b822d67d4180e99efde975688"
+  },
+  "hoe": {
+    "text": "hoe",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "u"
+      ]
+    ],
+    "seconds": 1.224,
+    "bytes": 54036,
+    "sha256": "47817303f43acff38930a6cb5a0923352bc6e12ebcc42dc4616022428b6994fc",
+    "input_sha256": "99d837960efb02b34035e443b84971fcf488908d1d83bf9a177f6fe10d870a1b"
+  },
+  "hoek": {
+    "text": "hoek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "u",
+        "k"
+      ]
+    ],
+    "seconds": 1.271,
+    "bytes": 56084,
+    "sha256": "c9ed8a12e85a64594c6d9129176402f6631a58b8a127fc0155ac543ad3d2be06",
+    "input_sha256": "31f7974746f44525053c77c2cf9982dfba74f40756b819dda424bd67a7f8e4a5"
+  },
+  "hoes": {
+    "text": "hoes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "u",
+        "s"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "f9dd7ce1ffa3e61f5aa91396b6dd086cb707c684447d65ce789418e4d4744482",
+    "input_sha256": "1d65fe7d08cd5bdad509b8cd18584f43cdae91dadb5ca20db81b74a881e5c3ac"
+  },
+  "hoop": {
+    "text": "hoop",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "o",
+        "ː",
+        "p"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "aaed1be5976074d65d15277ff72592f191603f43ea5eb6e9eefac3c14b4f5ab4",
+    "input_sha256": "efc82cde4317bb7fb0049c852cc2292011f83a8c8ec7a3340cd9d97d2ed3b64c"
+  },
+  "hoor": {
+    "text": "hoor",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "h",
+        "ˈ",
+        "o",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.503,
+    "bytes": 66324,
+    "sha256": "b6fc7af13e9341eb065d2793bc9525e684533cc8b95164cfb418b5605747cc4e",
+    "input_sha256": "ca36b57f523ef45b25641ad45f390fbf65a17d2d5a828a3218c8e48ff43bf683"
+  },
+  "ijs": {
+    "text": "ijs",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "s"
+      ]
+    ],
+    "seconds": 1.526,
+    "bytes": 67348,
+    "sha256": "68d7457d8c4c8e4ef3e587468b332ac63c287674c6093e9db5ed58a52b1004a4",
+    "input_sha256": "8d4888fa5f2c38d8d07ea2ad639f064c84a216878db01fc623bec4245c3a0225"
+  },
+  "is": {
+    "text": "is",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ɪ",
+        "s"
+      ]
+    ],
+    "seconds": 1.329,
+    "bytes": 58644,
+    "sha256": "e0214b0fbadfa6fa913d51ef8893539830ae941b79dc843c444d4191a89a084a",
+    "input_sha256": "309612b5f66f2fb8e646ea96728f56175e2b102d07282c962c036a246efbd8e0"
+  },
+  "kaas": {
+    "text": "kaas",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "a",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.619,
+    "bytes": 71444,
+    "sha256": "a4482cf5caff801a7771078d839d8a06fa00b6bdb961b9cde8c94ac12d1197c3",
+    "input_sha256": "1f1b42c3aadf06a815919ce0be8e0962c5c9c03a0c1485b956425f8300cc4079"
+  },
+  "ken": {
+    "text": "ken",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.41,
+    "bytes": 62228,
+    "sha256": "68311f9c3072dda2dce55c56cb37bc6f17f3e9a54e7d14930148f2b153308dfa",
+    "input_sha256": "060f08a921ed26c9336998c479befdd76db16af51187141e14c2ad17e40ef89a"
+  },
+  "kijk": {
+    "text": "kijk",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "42e90be318d6ca250f7bf06fa290fd0358cd7fca97a9a72e1b78a74dd2d75d2e",
+    "input_sha256": "3913d9289b8c23a9f618fba356c8c52ee4af4aca544d2e39c2add1fd6fb4cadd"
+  },
+  "kik": {
+    "text": "kik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.34,
+    "bytes": 59156,
+    "sha256": "2bfd198f11b7bf2db84f9834351a4b55a22c33b29e3bdf645f8ab4ea2c126539",
+    "input_sha256": "442b1bb5f445b9decb618be88bfeeb0fcf12f40f89c7b54daaf4c2c6e088b072"
+  },
+  "klank_d": {
+    "text": "[[d]]",
+    "kind": "phoneme",
+    "scale": 1.0,
+    "phonemes": [
+      [
+        "d"
+      ]
+    ],
+    "seconds": 0.806,
+    "bytes": 35604,
+    "sha256": "dc72c1ecf0a6979ea9001ae825e7a0ae8a872193eb16d1478460bc7aa11de1ba",
+    "input_sha256": "cb2127a24af856d5a87a64314e3aec6853365e0b78b0568a3d1f7399499be4fc"
+  },
+  "klank_h": {
+    "text": "[[h]]",
+    "kind": "phoneme",
+    "scale": 1.0,
+    "phonemes": [
+      [
+        "h"
+      ]
+    ],
+    "seconds": 0.864,
+    "bytes": 38164,
+    "sha256": "26d08b2b6983016b9a7c430de0e99d39ea73a937d52e75d030763dc6eca24cd5",
+    "input_sha256": "8df78b330937e2dfe637e781cca8b8fd9ecc2f67afef7c79961711c91a8ac3d6"
+  },
+  "klank_ij": {
+    "text": "[[ɛɪ]]",
+    "kind": "phoneme",
+    "scale": 1.65,
+    "phonemes": [
+      [
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.271,
+    "bytes": 56084,
+    "sha256": "1cac1d8ee7ad879b963fc272b3aa9fd481c1cc370f949a3253e5ef03b03c5898",
+    "input_sha256": "3cecb1126359b35378a2c5e2d1e70ca24e77f48654fb048314207ea8ab19bfc7"
+  },
+  "klank_oe": {
+    "text": "[[u]]",
+    "kind": "phoneme",
+    "scale": 1.65,
+    "phonemes": [
+      [
+        "u"
+      ]
+    ],
+    "seconds": 1.097,
+    "bytes": 48404,
+    "sha256": "632042e23aa862f16a7f1f8ba12e94ffe2f1a7772875431d9151a9179b4b8952",
+    "input_sha256": "88d0995b0ddfc9c5d0d00a73f8f7ddfe931c6a44dda78ec4eb33b2d7e09c935b"
+  },
+  "klank_z": {
+    "text": "[[z]]",
+    "kind": "phoneme",
+    "scale": 1.65,
+    "phonemes": [
+      [
+        "z"
+      ]
+    ],
+    "seconds": 1.306,
+    "bytes": 57620,
+    "sha256": "871de082aad93075aca866dd9d7b29fd94324c441a45bd83ceef3175e2062197",
+    "input_sha256": "a89a8218a44d9d0cd9ac88d44d18d722e75237c441f397b378c6987fb7521cc8"
+  },
+  "koe": {
+    "text": "koe",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "u"
+      ]
+    ],
+    "seconds": 1.236,
+    "bytes": 54548,
+    "sha256": "b2cb2515cea5b9ec9c7c4b647506a2e1a27d1a24947bc5aafae1c7d5c81adcf1",
+    "input_sha256": "793affe578c2533e15636bfdc585691209fef1a4f8962024f29a002cb4766765"
+  },
+  "koek": {
+    "text": "koek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "u",
+        "k"
+      ]
+    ],
+    "seconds": 1.282,
+    "bytes": 56596,
+    "sha256": "05897ad1a46410cbd66be12db3da858e74eaef526ec06fef9b189aa9fe99690d",
+    "input_sha256": "c5d730f4b1917f312cbb057467e33a9945502e39844ee7fbe19e0b4546b02ae0"
+  },
+  "koen": {
+    "text": "koen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "u",
+        "n"
+      ]
+    ],
+    "seconds": 1.201,
+    "bytes": 53012,
+    "sha256": "47237e72495643da75d52ad7e6f03bbde33670bebb19c57aa3c53462d6915e7d",
+    "input_sha256": "bfa1c3b1fed1bf5a0d96eb95bf88020b7886eeb0860f0577b99715c13d15bfc5"
+  },
+  "koor": {
+    "text": "koor",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "o",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "8e640f5704b7f6df4df105670102b4c8ac09759bfee0f07144d90a872f82b2f5",
+    "input_sha256": "876dee31e4c3762ea80e07827de81f0e986b4828ac1b0ef9744467e105c4551a"
+  },
+  "koos": {
+    "text": "koos",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "k",
+        "ˈ",
+        "o",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "d8f992a9aaa4e26c2045e9a4a90428fa7fef2615e5ca4aad246e3550ea59977a",
+    "input_sha256": "c7cda30db84babb2bec5a74d316d5d1c39da0f2dc85eca99253e2d5878eea7d2"
+  },
+  "maak": {
+    "text": "maak",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "a",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "708836f54598215e6b843327ded397620712575397d7e5d1db0f97f94d4d3fe0",
+    "input_sha256": "9fbc0a30113d459dc45edfe94f5b91a1f185c24ce33671035d62106ec87d685b"
+  },
+  "mee": {
+    "text": "mee",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "bc53163b64a4d540d5fad9094803eca9ce0b4a51ed55537c77bdb4ec2fd1a9ac",
+    "input_sha256": "456786c904b8bdce6599520040ae36b9338c35b8a94b5c1b563fd3e69ab7f50b"
+  },
+  "meer": {
+    "text": "meer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "e97f2b07ae750a62c1c8eaf55127ddc3c0a32a3de0073b3ea3fcfdc8aa063e9c",
+    "input_sha256": "7bc438052fcb6a99768339634900a2bd3b8ae430253e7036f0fabc8029385e84"
+  },
+  "mes": {
+    "text": "mes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "ɛ",
+        "s"
+      ]
+    ],
+    "seconds": 1.596,
+    "bytes": 70420,
+    "sha256": "f131ed008c3d257448c8c75fb3bd6f845f0cc6af6dd1488dfd76b69f3d94f1ec",
+    "input_sha256": "981d9db2d7c7f1b7cc83c3faac2d3ca7e05fd43e9ae8631b7e182eb9b58c1a08"
+  },
+  "met": {
+    "text": "met",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "ɛ",
+        "t"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "b2f8b3bc7c51ece054cc45c543368f3720fc07284a295862a0e387376a7aad97",
+    "input_sha256": "60a830afe221f283f1ae21d5f380602aabc41b7e4540353128b250a146967440"
+  },
+  "mijn": {
+    "text": "mijn",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ɛ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.433,
+    "bytes": 63252,
+    "sha256": "ea275f8214c4527075c61505db9d044609eb59e18b9ba4dd7b9304b6d0369983",
+    "input_sha256": "f62ba77f78914293501983b0f4cfdb020ee0792a973e4c5e1555cfb9169df968"
+  },
+  "mik": {
+    "text": "mik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.387,
+    "bytes": 61204,
+    "sha256": "4887ef17ef3e5ce3275ad6506e2f2aa2f7a65bd2c2834fe2ff1d3ed138faa545",
+    "input_sha256": "b5b8dfb38dfd0430688b8d2befe10c6a983f70d2049cbd6ce30ab7e786f04df8"
+  },
+  "moe": {
+    "text": "moe",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "u"
+      ]
+    ],
+    "seconds": 1.201,
+    "bytes": 53012,
+    "sha256": "7292b07d2a122262b8591f467e6a3faeb178181e10a5fd68ba5a0cd230740458",
+    "input_sha256": "ec6263c802e67c33245c88d8c32992bc00e3610697e45874100425fb3538a1ef"
+  },
+  "moet": {
+    "text": "moet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "m",
+        "ˈ",
+        "u",
+        "t"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "0221cdee1f51b329ea7499a9ddf8945fd7832ae42dd6f81c9e4899a02b99b853",
+    "input_sha256": "1733e1a88bb8e155f04e432286509fbd7ea8a3b5c790e4fb9605034b179d076b"
+  },
+  "naar": {
+    "text": "naar",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "n",
+        "ˈ",
+        "a",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.503,
+    "bytes": 66324,
+    "sha256": "846d70f228e8d9407d24f64e2152bbf1394bf77d49f13bc13e874eec35df91eb",
+    "input_sha256": "e630f66b4b0c31ab6af24aa69de0892586a6da41a75671e02eed2407e784e04a"
+  },
+  "neem": {
+    "text": "neem",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "n",
+        "ˈ",
+        "e",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.607,
+    "bytes": 70932,
+    "sha256": "7ec30b90a08a953f4684dcae2cf8d818e1f55d54b9a8bf915613f8f441c77567",
+    "input_sha256": "1c8d24c2f7342ff0ebc7df95eedd540af2f5a16b0a4d88e8efa6610bfbbbb313"
+  },
+  "nek": {
+    "text": "nek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "n",
+        "ˈ",
+        "ɛ",
+        "k"
+      ]
+    ],
+    "seconds": 1.34,
+    "bytes": 59156,
+    "sha256": "f1f484a50302e9e76b33b710ad9868e73828d02c66660c1a6098208ad5d9adb3",
+    "input_sha256": "48e7a2e50f10ea6446ad09fb436e4c129252a45afd7285aa6d67dbe39b24476b"
+  },
+  "nep": {
+    "text": "nep",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "n",
+        "ˈ",
+        "ɛ",
+        "p"
+      ]
+    ],
+    "seconds": 1.491,
+    "bytes": 65812,
+    "sha256": "4f936fec9e67bfa409f03c1553b910205392f7703fe3619ff6edf9a000e32793",
+    "input_sha256": "238d849222214780559d1288a2c04d21f56b8a05aa65f6d8f9e379c5d45c10a8"
+  },
+  "nik": {
+    "text": "nik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "n",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.398,
+    "bytes": 61716,
+    "sha256": "5397144ad049f6ea25a61e4c597ec2acda114ee4ded68cad900e4407146e3df9",
+    "input_sha256": "9fd8fad508ca938b14acfd9b30452795e6404ee2b63ddeeedba72e65ae0d679e"
+  },
+  "oom": {
+    "text": "oom",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ˈ",
+        "o",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.387,
+    "bytes": 61204,
+    "sha256": "5ec62b1a5e77da6ce7eef788dc2150d613be5ea9567533e997a11e1091fa0024",
+    "input_sha256": "0eb3ac2fdb5dc4d510a7f920b78d474be630d9a54544c539e0faa8d14065d2a8"
+  },
+  "oor": {
+    "text": "oor",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "ˈ",
+        "o",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.398,
+    "bytes": 61716,
+    "sha256": "885a6969b485a9f6b3175ee77f6f37a729947359fe56e1126c09c6f8e9b30444",
+    "input_sha256": "7bfa1b37051720ce790cec8597fbfa1c161628143c28e2b3ce2649f4cd9268f0"
+  },
+  "optie_a": {
+    "text": "Optie [[aː]]",
+    "kind": "label",
+    "scale": 1.2,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɔ",
+        "p",
+        "s",
+        "i",
+        " ",
+        "a",
+        "ː"
+      ]
+    ],
+    "seconds": 1.805,
+    "bytes": 79636,
+    "sha256": "3a9c752201177d028a26e25c63cff5d77cccb51407eeedec82ace558d898a725",
+    "input_sha256": "234dbee319f870f775e02a6ee1695d68422c5490dcef4d08b90b37771fbfac8e"
+  },
+  "optie_b": {
+    "text": "Optie [[beː]]",
+    "kind": "label",
+    "scale": 1.2,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɔ",
+        "p",
+        "s",
+        "i",
+        " ",
+        "b",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.828,
+    "bytes": 80660,
+    "sha256": "c42393eeeb521d44d9c9499e5a144db78db64b9ec9325100937c7d4d2eee4d7c",
+    "input_sha256": "dc71cf7537eb7494ac99dee19a6e2b725a0c67c8ddfb4865cd212e8652af0644"
+  },
+  "optie_c": {
+    "text": "Optie [[seː]]",
+    "kind": "label",
+    "scale": 1.2,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɔ",
+        "p",
+        "s",
+        "i",
+        " ",
+        "s",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.991,
+    "bytes": 87828,
+    "sha256": "ee3969fa5f1a7645a8c5f680dd6108cc645c45439f5a771adb423e19367b5465",
+    "input_sha256": "d5089172c92bbf69e481960cd4793dc4619a081698ca1760cfd44a77d5c255b4"
+  },
+  "optie_d": {
+    "text": "Optie [[deː]]",
+    "kind": "label",
+    "scale": 1.2,
+    "phonemes": [
+      [
+        "ˈ",
+        "ɔ",
+        "p",
+        "s",
+        "i",
+        " ",
+        "d",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.944,
+    "bytes": 85780,
+    "sha256": "ebf5f6ed23ce72fb272ae07845d97d0c717870df510676f0061f21978dfd021b",
+    "input_sha256": "25efb84efa34b1e8501445356f412df543420cabdbe808dfda4a2afa38ad3512"
+  },
+  "peer": {
+    "text": "peer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.561,
+    "bytes": 68884,
+    "sha256": "ca57f3a46d15eb34948ec868942c30b11bebe43f20aa5755b6bc07d1a305baff",
+    "input_sha256": "174c0becf4d5b757ab2ded0c2b9955fd2a21af4292739485344d7654b076affd"
+  },
+  "pees": {
+    "text": "pees",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "e",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.596,
+    "bytes": 70420,
+    "sha256": "bff97b70b55380d540efd81de0e93229fb5e61c4dbfbef827b8b9e0bdd73b67a",
+    "input_sha256": "ca35df905214a6ec96bff6bb804a7e1fa1950646e2ed4228b0c5cf168e60369e"
+  },
+  "pen": {
+    "text": "pen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɛ",
+        "n"
+      ]
+    ],
+    "seconds": 1.41,
+    "bytes": 62228,
+    "sha256": "989b933cc3490ca9f21c82c4306f809b833ab0303c9ac18ca8143dfcead246a9",
+    "input_sha256": "312c5f3785d4e79a014081ee909c70b2cc772335edc347c9067961ed992d46af"
+  },
+  "pijn": {
+    "text": "pijn",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.445,
+    "bytes": 63764,
+    "sha256": "bf275b90807e2d1d0eaec09b2433895432108f83e41ef440ed2b1dd9c2ca8d86",
+    "input_sha256": "86188116f522599a2fcfc726275043458f18e3881fb9ed7d4513fc21f4835947"
+  },
+  "pim": {
+    "text": "pim",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɪ",
+        "m"
+      ]
+    ],
+    "seconds": 1.398,
+    "bytes": 61716,
+    "sha256": "8a6d86daeb84458b6ad9a00f153eacfe0c6e4bf39626b01c49d6c9697b44b221",
+    "input_sha256": "f77a672798eaf793830544c28c435f1a1fd927776d61290f5ee7a5cb31840b24"
+  },
+  "pin": {
+    "text": "pin",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.41,
+    "bytes": 62228,
+    "sha256": "13ae18794b2e58e22d05960267175c11a3223ad90617a8bf9fcd9a4b4f327edf",
+    "input_sha256": "3e82cda78cd04c105ebd91cd8ccd61467da314b0dc02f1934dab5dc8845f8c2d"
+  },
+  "pit": {
+    "text": "pit",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "ɪ",
+        "t"
+      ]
+    ],
+    "seconds": 1.375,
+    "bytes": 60692,
+    "sha256": "983fd83ca337981adf288ff0a0890d5929baa7901ed06eb876ce223ec3c3811f",
+    "input_sha256": "6942139cb75f399821fd577b5c34cedb97663c1a8a00ecf1d8dba4bb15d334ad"
+  },
+  "poes": {
+    "text": "poes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "u",
+        "s"
+      ]
+    ],
+    "seconds": 1.364,
+    "bytes": 60180,
+    "sha256": "1ba78d71a2b1dafaae81ccc37158ff0ce6a2d9ceca27f64ebc2b03041bd81a03",
+    "input_sha256": "f0f9b4e46e568d1ed359e9c5dc4d5b4a988489c66e67a953075c06dbc58c0f48"
+  },
+  "poos": {
+    "text": "poos",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "o",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "ae5002d2cf5a6ff4578df623d3a1ec06eca812ee09341a5e91d593c6991eb3e4",
+    "input_sha256": "9e9832136a6cefbdfda890a2407cde6be79b84b03290c22b89ce8ca1a51f2abb"
+  },
+  "poot": {
+    "text": "poot",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "p",
+        "ˈ",
+        "o",
+        "ː",
+        "t"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "f204330580706f878896d72fdeb42cd2ccfa1dcccd5e808d902a5596bb21d522",
+    "input_sha256": "be71b44f9fa4a5e6f25fa5743e0a0680426e77ee9fdb26d4ab557ffe04c0466c"
+  },
+  "raak": {
+    "text": "raak",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.422,
+    "bytes": 62740,
+    "sha256": "983abd1b93ffe0f1e1cf05dedfa92f485d1df87a796c0103bd019edf38e0ab42",
+    "input_sha256": "67581dcc25a58fa6498f8d66ec9478b16a4e7376824a4b94442a2d575f16ccf0"
+  },
+  "raam": {
+    "text": "raam",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.619,
+    "bytes": 71444,
+    "sha256": "01e58fb6fd10fc2cf348b99985dccd9c8e8709869ede86d7f7132bb5b219e851",
+    "input_sha256": "a1d4a1734574ea3df9c6a76cd780bd0bcf588ae1b6586e216710f8e2c164ecee"
+  },
+  "raar": {
+    "text": "raar",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.596,
+    "bytes": 70420,
+    "sha256": "3e7d57750dfec21cf2f4f1e8f1ea5603f0504015e948b4d9a01f16ff81a5eb15",
+    "input_sha256": "0bf04e80133df99f9973295397c381acda2673244d86765ce6f198be5b300740"
+  },
+  "raas": {
+    "text": "raas",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.805,
+    "bytes": 79636,
+    "sha256": "d716d09884bc7503767bd3e88406bd5fc63f57e988e565698def21cbb6294e5b",
+    "input_sha256": "90b6ab665b30a9107cf15bebc07e93121c0a4f6c294d733a4222436ea5e7717d"
+  },
+  "ree": {
+    "text": "ree",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.503,
+    "bytes": 66324,
+    "sha256": "24a0677a396d189cda0420ef9a19981a15df9378f3b4849b08b8bfd198c8c15b",
+    "input_sha256": "dea81372b6e7dd779cc51f0282c4d93d89e25648c1dab23e894ae31f74567742"
+  },
+  "reep": {
+    "text": "reep",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "e",
+        "ː",
+        "p"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "d64feb336858eabe635cd797dc7db74852e43782f76e86d76e0fbd22d375b3f7",
+    "input_sha256": "45e03c3639ed7a7f524dba9a59339327d815b40b12d624e1680571dbc5e0d2ae"
+  },
+  "rij": {
+    "text": "rij",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.491,
+    "bytes": 65812,
+    "sha256": "7e257d741c472134d8f9ac7c1195bd17a18bda3bb881435c63fd9c5272833c64",
+    "input_sha256": "af095ad667f0aba8b5eedef2ace493c73336b0db31826dd9c7d629429e398c95"
+  },
+  "rijk": {
+    "text": "rijk",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "9a5b48272fc540906dae624138e508f8856abd5bbb8fa19dd7615ff2e328eac1",
+    "input_sha256": "cddc8f6d0d9ab9eeb04917fbd656efde09c48503fa32272475c82bb24aff464a"
+  },
+  "rijm": {
+    "text": "rijm",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "m"
+      ]
+    ],
+    "seconds": 1.538,
+    "bytes": 67860,
+    "sha256": "7df7dccd41669ef7c49c8457101116f7e8d1c01a20fefd2d9e088e5a746e0f47",
+    "input_sha256": "b70f051d0950348a6811663f6951c229b1708d32ad4f218af997f840be9151d2"
+  },
+  "rijp": {
+    "text": "rijp",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "p"
+      ]
+    ],
+    "seconds": 1.642,
+    "bytes": 72468,
+    "sha256": "73b1e01b5095626268dc88c0696f5d9afaa67edb8565a564fb6f8ac10b1161b1",
+    "input_sha256": "6b106bb42f10ac09c54a1a93afce8d1a1f6dd5e0cacf36e467e6d6b17f7d913f"
+  },
+  "roe": {
+    "text": "roe",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "u"
+      ]
+    ],
+    "seconds": 1.224,
+    "bytes": 54036,
+    "sha256": "d6ab39357427172441386056fd96743c19653b8238490258e34c252dc54ac080",
+    "input_sha256": "f781d2d82c30fc8923b1bdd47819e27f52dd11e15c70be71b3c9450ed98b4a42"
+  },
+  "roep": {
+    "text": "roep",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "u",
+        "p"
+      ]
+    ],
+    "seconds": 1.282,
+    "bytes": 56596,
+    "sha256": "35e1d0fca1b684d2d65da5107926d82f67bf012833baf04a3eb2ff96436e7846",
+    "input_sha256": "5261dbae03b28877e0606056d7dd326626d7837c59dd674b2c4143c4af1da4c8"
+  },
+  "rook": {
+    "text": "rook",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "de4a6a947e999a673e618b22f0b39a57208709ee241ffd8f01fa09bbbdcfaa4a",
+    "input_sha256": "f67aec509c4504a247e8271871999b796cd6da69734d1a5a768d733047ba29d8"
+  },
+  "room": {
+    "text": "room",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.584,
+    "bytes": 69908,
+    "sha256": "0eae981938832323f65b4765c056a1c6c19f0946bd538698731a4e9065aa675a",
+    "input_sha256": "b922b73e8f26987cb5d5348a1b5c354592c67efb1a2b4af7f887dc1744086ef0"
+  },
+  "roos": {
+    "text": "roos",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.712,
+    "bytes": 75540,
+    "sha256": "e91d1c48c04a41712bded87f0219b8e742cb6621365f6204935963658d7d31d8",
+    "input_sha256": "e735a32dcba9c07938067fe75435f2380fab641973bed04abae9a005b56f472a"
+  },
+  "sik": {
+    "text": "sik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "s",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "6a9961b7a382328df4d70b71a7b573932a1b8cd3e75c734d6f352f87052443b4",
+    "input_sha256": "b0221dc7a3a4031d24e21a88164fa856cceb112f80548d3334bc6640bfc4cfeb"
+  },
+  "sip": {
+    "text": "sip",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "s",
+        "ˈ",
+        "ɪ",
+        "p"
+      ]
+    ],
+    "seconds": 1.561,
+    "bytes": 68884,
+    "sha256": "7a86485b55f6a08dc6585197d84d6b8307ce59f3f366be0387dff2038409cbde",
+    "input_sha256": "187149932996410a42288333971111d5e57a806397749223244d6385c60d8af1"
+  },
+  "soep": {
+    "text": "soep",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "s",
+        "ˈ",
+        "u",
+        "p"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "b69d91af3f4d678eb49836d937531372ccf8807d2dc99a2aceb6f7d3e1d7e25a",
+    "input_sha256": "0676335157292e27bb926d4e2902becd3934aff94cc884cb7854e62c9979f618"
+  },
+  "teek": {
+    "text": "teek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "e",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.352,
+    "bytes": 59668,
+    "sha256": "043601a7878af4a3c5fa5846d500033ff12b79deeb094d8f366025475888a771",
+    "input_sha256": "e988b51f770d6b8bdb4c21c3b5698796398cc708d907a7bfcb53e513633063b5"
+  },
+  "teen": {
+    "text": "teen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "e",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.375,
+    "bytes": 60692,
+    "sha256": "029c3f8b59e6fd4ce0126bb90e18e4947d8920c15a02c1ccb33b58354680ff17",
+    "input_sha256": "0e4b0702a85a67f2e944eedd3f4d78334de84a1a214618adf961bea971a2d99a"
+  },
+  "tijn": {
+    "text": "tijn",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "6efe914d7f7f833c18ef2eaf8e899060fbf226a35146b16c147635f812686612",
+    "input_sha256": "c461bb4fb3cc7f609f865a5bc4f90e3ff64988185a9cf4b26cf1d84a43e745bc"
+  },
+  "tijs": {
+    "text": "tijs",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "s"
+      ]
+    ],
+    "seconds": 1.607,
+    "bytes": 70932,
+    "sha256": "1092310e1431e8882aaf1ea975c0c9d1a1c684a5ab509484494befcab9cd9e04",
+    "input_sha256": "7553ac30dfd05f0ed10a69d7716fc3292356d6b19d84fc04adb0c4c6ce1dc18c"
+  },
+  "tik": {
+    "text": "tik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.352,
+    "bytes": 59668,
+    "sha256": "9d63146676656b1ec5a0e40ccbace0d4d681a9b64a97419d1821fe23c3e5077c",
+    "input_sha256": "c83b3d58df7c7f1d5d3f758ec0080d0dd33204dc33ae7a9842a0b6ae75905c3c"
+  },
+  "toen": {
+    "text": "toen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "u",
+        "n"
+      ]
+    ],
+    "seconds": 1.236,
+    "bytes": 54548,
+    "sha256": "40ccb1436aeb4eeb31954d01a085f8445914382fca4d85e03d431349ae82d32a",
+    "input_sha256": "c2218efac288400c0495c0fd751b7d8998126f8e431237b555e4fa5b663e61e1"
+  },
+  "toon": {
+    "text": "toon",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "t",
+        "ˈ",
+        "o",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.48,
+    "bytes": 65300,
+    "sha256": "04fe0294b77b9008de86a7929920c8c4113fd826829e36d2da0d0a6d3adc9c52",
+    "input_sha256": "5edf7a5ede3e869e17eca203f1906ee258076f29a204aceec98d983225465539"
+  },
+  "vaas": {
+    "text": "vaas",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "a",
+        "ː",
+        "s"
+      ]
+    ],
+    "seconds": 1.724,
+    "bytes": 76052,
+    "sha256": "cd5e4aed239a68fb878dff531919e2fa68adff18a460748a6e3273683eb2ede2",
+    "input_sha256": "65a64ea60e4f50032fcb6b851efcb9216be26f490011dd88bf752d30dd94512a"
+  },
+  "vee": {
+    "text": "vee",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.549,
+    "bytes": 68372,
+    "sha256": "b2a330884f67ec90b5a61404a08788d6524ec016014b03952c961e6dd21d2705",
+    "input_sha256": "4676d095d984100e8b6a553f5be1eee52a5b16844ec1104131580802ef2b0013"
+  },
+  "veer": {
+    "text": "veer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.619,
+    "bytes": 71444,
+    "sha256": "e0bec2921f30896c10dc3a5d439ac07f276a1c6ddbd585f9dbd0b1700f5d3cb5",
+    "input_sha256": "f60236fa4be2465fcfa866d992accf5c5635a34e2b51bbbdf3ff16d344e9ddfc"
+  },
+  "ver": {
+    "text": "ver",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "ɛ",
+        "r"
+      ]
+    ],
+    "seconds": 1.538,
+    "bytes": 67860,
+    "sha256": "0bf849ebd1f61e8d89e5a9979d105332e11b4192c79d08a8af32cc07293a8a6b",
+    "input_sha256": "8d68a52d1ba22f44a4c2ec31b582c9c401270a8717f3e2c52d8fd7e92b56c910"
+  },
+  "verhaal_d": {
+    "text": "ik vaar in een doos.\nik vaar een poos\nmaar roos is boos\nen ik ook.\nnee roos, ik vaar!\nben ik daar?\nroos, vaar maar.",
+    "kind": "story",
+    "scale": 1.25,
+    "phonemes": [
+      [
+        "ɪ",
+        "k",
+        " ",
+        "v",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ɪ",
+        "n",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "d",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        "."
+      ],
+      [
+        "ɪ",
+        "k",
+        " ",
+        "v",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "p",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        " ",
+        "m",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "b",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        " ",
+        "ɛ",
+        "n",
+        " ",
+        "ɪ",
+        "k",
+        " ",
+        "ˈ",
+        "o",
+        "ː",
+        "k",
+        "."
+      ],
+      [
+        "n",
+        "ˈ",
+        "e",
+        "ː",
+        " ",
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        ",",
+        " ",
+        "ɪ",
+        "k",
+        " ",
+        "v",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "b",
+        "ɛ",
+        "n",
+        " ",
+        "ɪ",
+        "k",
+        " ",
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "?"
+      ],
+      [
+        "r",
+        "ˈ",
+        "o",
+        "ː",
+        "s",
+        ",",
+        " ",
+        "v",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "m",
+        "a",
+        "ː",
+        "r",
+        "."
+      ]
+    ],
+    "seconds": 16.983,
+    "bytes": 749012,
+    "sha256": "1ca690056588b7aad47fe08a3cbfad95c26db7ac6d4c84edf989045481bf77aa",
+    "input_sha256": "f2692b81e200961c338d0d98d640c0b5c9a7f6c9093c00013275e960b866f90a"
+  },
+  "verhaal_h": {
+    "text": "oo, daar is saar!\ndat haar van saar!\nzij is met loes.\nloes is haar poes.\noo, een zoen.\nsaar pakt poes.\nde zoen is raak op het haar van loes.",
+    "kind": "story",
+    "scale": 1.25,
+    "phonemes": [
+      [
+        "ˈ",
+        "o",
+        "ː",
+        ",",
+        " ",
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ɪ",
+        " ",
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "d",
+        "ɑ",
+        "t",
+        " ",
+        "h",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "v",
+        "ɑ",
+        "n",
+        " ",
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "z",
+        "ɛ",
+        "ɪ",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "m",
+        "ɛ",
+        "t",
+        " ",
+        "l",
+        "ˈ",
+        "u",
+        "s",
+        "."
+      ],
+      [
+        "l",
+        "ˈ",
+        "u",
+        "s",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "h",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "p",
+        "ˈ",
+        "u",
+        "s",
+        "."
+      ],
+      [
+        "ˈ",
+        "o",
+        "ː",
+        ",",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "z",
+        "ˈ",
+        "u",
+        "n",
+        "."
+      ],
+      [
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "p",
+        "ˈ",
+        "ɑ",
+        "k",
+        "t",
+        " ",
+        "p",
+        "ˈ",
+        "u",
+        "s",
+        "."
+      ],
+      [
+        "d",
+        "ə",
+        " ",
+        "z",
+        "ˈ",
+        "u",
+        "n",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "k",
+        " ",
+        "ɔ",
+        "p",
+        " ",
+        "h",
+        "ə",
+        "t",
+        " ",
+        "h",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "v",
+        "ɑ",
+        "n",
+        " ",
+        "l",
+        "ˈ",
+        "u",
+        "s",
+        "."
+      ]
+    ],
+    "seconds": 18.307,
+    "bytes": 807380,
+    "sha256": "6db63b71c740f66fd9bd2bed212a2ceae81c6b05578030c3f98a02c9264c27af",
+    "input_sha256": "3093a124e33d545a171ed3b021cdd6f9fa11fe29700c46f628bb70f562d76f1e"
+  },
+  "verhaal_ij": {
+    "text": "ik eet ijs.\n[[mː]] ijs!\nzoem zoem.\neen bij bij mij.\ndoe jij mij pijn?\nnee, bij.\ndit is mijn ijs!",
+    "kind": "story",
+    "scale": 1.25,
+    "phonemes": [
+      [
+        "ɪ",
+        "k",
+        " ",
+        "ˈ",
+        "e",
+        "ː",
+        "t",
+        " ",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "s",
+        ".",
+        "m",
+        "ː",
+        " ",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "s",
+        "!"
+      ],
+      [
+        "z",
+        "ˈ",
+        "u",
+        "m",
+        " ",
+        "z",
+        "ˈ",
+        "u",
+        "m",
+        "."
+      ],
+      [
+        "ə",
+        "n",
+        " ",
+        "b",
+        "ɛ",
+        "ɪ",
+        " ",
+        "b",
+        "ɛ",
+        "ɪ",
+        " ",
+        "m",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "."
+      ],
+      [
+        "d",
+        "ˈ",
+        "u",
+        " ",
+        "j",
+        "ɛ",
+        "ɪ",
+        " ",
+        "m",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        " ",
+        "p",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "n",
+        "?"
+      ],
+      [
+        "n",
+        "ˈ",
+        "e",
+        "ː",
+        ",",
+        " ",
+        "b",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "."
+      ],
+      [
+        "d",
+        "ɪ",
+        "t",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "m",
+        "ɛ",
+        "ɪ",
+        "n",
+        " ",
+        "ˈ",
+        "ɛ",
+        "ɪ",
+        "s",
+        "!"
+      ]
+    ],
+    "seconds": 15.497,
+    "bytes": 683476,
+    "sha256": "9b4b8e48ab029852a4ed38c8f40b968526b1292ef5df3422a0d2c84df5908917",
+    "input_sha256": "3c87b04ee932ec2d1d3707b9aa450b09b845f0dd795d29c3bddf5e8ebc8f12d2"
+  },
+  "verhaal_oe": {
+    "text": "saar en kim doen raar.\nsaar is in een beek.\ntik, saar!\ntik tik tik.\noeps!\nsaar is sip.\nsaar, er is een doek.",
+    "kind": "story",
+    "scale": 1.25,
+    "phonemes": [
+      [
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ɛ",
+        "n",
+        " ",
+        "k",
+        "ˈ",
+        "ɪ",
+        "m",
+        " ",
+        "d",
+        "ˈ",
+        "u",
+        "n",
+        " ",
+        "r",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "."
+      ],
+      [
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "ɪ",
+        "n",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "b",
+        "ˈ",
+        "e",
+        "ː",
+        "k",
+        "."
+      ],
+      [
+        "t",
+        "ˈ",
+        "ɪ",
+        "k",
+        ",",
+        " ",
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "t",
+        "ˈ",
+        "ɪ",
+        "k",
+        " ",
+        "t",
+        "ˈ",
+        "ɪ",
+        "k",
+        " ",
+        "t",
+        "ˈ",
+        "ɪ",
+        "k",
+        "."
+      ],
+      [
+        "ˈ",
+        "u",
+        "p",
+        "s",
+        "!"
+      ],
+      [
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        " ",
+        "ɪ",
+        " ",
+        "s",
+        "ˈ",
+        "ɪ",
+        "p",
+        "."
+      ],
+      [
+        "s",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        ",",
+        " ",
+        "ə",
+        "r",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "d",
+        "ˈ",
+        "u",
+        "k",
+        "."
+      ]
+    ],
+    "seconds": 16.264,
+    "bytes": 717268,
+    "sha256": "65977d19567dc7633cea55e2b4a8233ce4348df45ba98dcf42e718fdddc88fde",
+    "input_sha256": "ddc166afdf4890e4816616ab9da3d5511283b2e37d3d91adaf2c5f9cf4cdf705"
+  },
+  "verhaal_z": {
+    "text": "ik zit aan zee.\nsim is ook mee.\naan zee met een doek.\noo, daar!\nin de zee is vis.\ndaar! een vis!\nen meer en meer.",
+    "kind": "story",
+    "scale": 1.25,
+    "phonemes": [
+      [
+        "ɪ",
+        "k",
+        " ",
+        "z",
+        "ˈ",
+        "ɪ",
+        "t",
+        " ",
+        "a",
+        "ː",
+        "n",
+        " ",
+        "z",
+        "ˈ",
+        "e",
+        "ː",
+        "."
+      ],
+      [
+        "s",
+        "ˈ",
+        "ɪ",
+        "m",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "o",
+        "ː",
+        "k",
+        " ",
+        "m",
+        "ˈ",
+        "e",
+        "ː",
+        "."
+      ],
+      [
+        "a",
+        "ː",
+        "n",
+        " ",
+        "z",
+        "ˈ",
+        "e",
+        "ː",
+        " ",
+        "m",
+        "ɛ",
+        "t",
+        " ",
+        "ə",
+        "n",
+        " ",
+        "d",
+        "ˈ",
+        "u",
+        "k",
+        "."
+      ],
+      [
+        "ˈ",
+        "o",
+        "ː",
+        ",",
+        " ",
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "ɪ",
+        "n",
+        " ",
+        "d",
+        "ə",
+        " ",
+        "z",
+        "ˈ",
+        "e",
+        "ː",
+        " ",
+        "ɪ",
+        "s",
+        " ",
+        "v",
+        "ˈ",
+        "ɪ",
+        "s",
+        "."
+      ],
+      [
+        "d",
+        "ˈ",
+        "a",
+        "ː",
+        "r",
+        "!"
+      ],
+      [
+        "ə",
+        "n",
+        " ",
+        "v",
+        "ˈ",
+        "ɪ",
+        "s",
+        "!"
+      ],
+      [
+        "ɛ",
+        "n",
+        " ",
+        "m",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r",
+        " ",
+        "ɛ",
+        "n",
+        " ",
+        "m",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r",
+        "."
+      ]
+    ],
+    "seconds": 17.622,
+    "bytes": 777172,
+    "sha256": "3a0eee39e8316a682dd8ed7b0dc05cdc17f14c92cbe1c5f5a6e701e4ae5398e6",
+    "input_sha256": "69be4258a495c239150fc6222926610a501265fe7b7d61b2ffdae5e29e5a9460"
+  },
+  "vik": {
+    "text": "vik",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "ɪ",
+        "k"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "94bcfa57ade02846246e44c323de65c375f99ef64fb8bb74a447c72ae7187f73",
+    "input_sha256": "1dd809f96959e6cb4af258fbc342a551312ebfac530ca8e2cb1c007f0036f649"
+  },
+  "voer": {
+    "text": "voer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "u",
+        "r"
+      ]
+    ],
+    "seconds": 1.375,
+    "bytes": 60692,
+    "sha256": "328361b880d1e6bc41f712c0863decd559be6ffad3b749486790870a2c03b50b",
+    "input_sha256": "9e1d203cc0c851f2a6b88f1cdd5bb2f444e1d111cee4e305f72b9919f1a148ee"
+  },
+  "voet": {
+    "text": "voet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "u",
+        "t"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "3877ae2f387bc39749c2cdd1fe47fe6cc46ef765dbb43347f27f3c410f8a9d48",
+    "input_sha256": "76f247f0352391a9868190a11c5c0ad366a5aaa3655d088bc544e5f38381b66b"
+  },
+  "voor": {
+    "text": "voor",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "v",
+        "ˈ",
+        "ɔ",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.515,
+    "bytes": 66836,
+    "sha256": "bdb1bde5bc5625cea99cf880eee3a0eb39961c111ca79fdf4c4b323c360f0d96",
+    "input_sha256": "bb9d49638b92e6e5e7d828a8545e64276d8d50f213a864d62bcefed180a6f0f8"
+  },
+  "zaak": {
+    "text": "zaak",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "a",
+        "ː",
+        "k"
+      ]
+    ],
+    "seconds": 1.549,
+    "bytes": 68372,
+    "sha256": "25cb652f8eda9cde8a732fac3c97881b2c18e6b965a528425e4cac7803cfbc60",
+    "input_sha256": "4b0448df21b697827b3729c9ea0afc055af27c308e3c25584c31dd85b68dbecd"
+  },
+  "zee": {
+    "text": "zee",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "e",
+        "ː"
+      ]
+    ],
+    "seconds": 1.619,
+    "bytes": 71444,
+    "sha256": "df76579f5bbabf802c768a9660fd2f4ffe894e5f17dcdd4098aacf7cc6c087cd",
+    "input_sha256": "57e4890c6fa1084dd8d723bd4b7ac7639d807308b9fc2aaf9d5ad9e00ecb32e4"
+  },
+  "zeem": {
+    "text": "zeem",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "e",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.689,
+    "bytes": 74516,
+    "sha256": "e054dc376e0883ef778c47c76541e3f6a7a7dfbc7a2c70db2fdfc0b68d72ec4e",
+    "input_sha256": "c662db8a32f85353ec57ade134d7f95478531e35fa3ec39f66b3d2971686cdc0"
+  },
+  "zeep": {
+    "text": "zeep",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "e",
+        "ː",
+        "p"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "a27f01bd3871d5e2e441d89374a66f7a759bf7ac712238bf69a846bc418c69f6",
+    "input_sha256": "a2bdb2df254cc9bc4e6a5fcaa6bd921d290d8d84cac040941c25c4c71221184c"
+  },
+  "zeer": {
+    "text": "zeer",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "ɪ",
+        "ː",
+        "r"
+      ]
+    ],
+    "seconds": 1.724,
+    "bytes": 76052,
+    "sha256": "d4c08cbdccd25c047116dff5c9136de95eb573e501239d4222ed86f58d0536d8",
+    "input_sha256": "a4e22857e3086ec4cc37cdbd3bf6008e874e903433702f8c9edef2992142445f"
+  },
+  "zes": {
+    "text": "zes",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "ɛ",
+        "s"
+      ]
+    ],
+    "seconds": 1.642,
+    "bytes": 72468,
+    "sha256": "f23826cbecfe7e719a2635d508e74f73a694ec2bcae004ed0a1de954b3244a72",
+    "input_sha256": "75090e544c8771d221df02f5d64096f72d9168bce51b0d4d8068dbf22f45d67e"
+  },
+  "zet": {
+    "text": "zet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "ɛ",
+        "t"
+      ]
+    ],
+    "seconds": 1.503,
+    "bytes": 66324,
+    "sha256": "8c658c1050d9875380e29a9f4b19f6736735f2f9cbe1e0822c25e6393ae579bc",
+    "input_sha256": "a18c0421846628fc1c72a19369f3c3eb77b8e1f03aaf5bc91555792d26d2b0bf"
+  },
+  "zij": {
+    "text": "zij",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ɛ",
+        "ɪ"
+      ]
+    ],
+    "seconds": 1.34,
+    "bytes": 59156,
+    "sha256": "ff7d57f0af4f280c0bf3839b38d759dfb978371cf31eacb5bba7c7086f530e9d",
+    "input_sha256": "800561ab1e11a3ed4fc183dd6e74f6dd79cecaa9b5fe3c8c90a617d32f8e0e3e"
+  },
+  "zijn": {
+    "text": "zijn",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ɛ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "ddde49dbf44d86006b1a9b6735be2c068b0b8e636b02008c126c0fbfb9188b70",
+    "input_sha256": "bb02f667635c4a3cad3258ece7e4d47eefe3c7c7e8a2f48bbc2f54a6aafe2803"
+  },
+  "zin": {
+    "text": "zin",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "ɪ",
+        "n"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "67ec6239a6382fff996d2c708860a70c8a5556f9b50d7c809f30bed08a7a01e7",
+    "input_sha256": "b569023fa6a364fdb05e20d4eb0c64acf04641e288952cc89656563f1dc936ae"
+  },
+  "zit": {
+    "text": "zit",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "ɪ",
+        "t"
+      ]
+    ],
+    "seconds": 1.642,
+    "bytes": 72468,
+    "sha256": "9c2e9e4c97e3ff5c0c9488365f96d37ee272e779902697941724929459a5799f",
+    "input_sha256": "b8098bff7ddb18e1a4a3f059fb2198350093ebf9499943ba0c28b396e7cff273"
+  },
+  "zoek": {
+    "text": "zoek",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "u",
+        "k"
+      ]
+    ],
+    "seconds": 1.491,
+    "bytes": 65812,
+    "sha256": "d03ecefbbf21eb5f52a5870a1c6c187dd747a7572d997e62de07e5a0e8445947",
+    "input_sha256": "41a44742513fd34059dfb93f74d4fc78d37c07ce2eea027e3181e2cb038d88b6"
+  },
+  "zoen": {
+    "text": "zoen",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "u",
+        "n"
+      ]
+    ],
+    "seconds": 1.457,
+    "bytes": 64276,
+    "sha256": "662907b9ca03feb10f04324cf45a6e32f02d6abdbe858614582ad23444092f65",
+    "input_sha256": "0ecb2e9865899dcddb6870589abf4117af0209101af09c75d4343d32c6bc7221"
+  },
+  "zoet": {
+    "text": "zoet",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "u",
+        "t"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "cf62299530aa075f4453ec24df11d4609f18829d5ff372416164c8d98c6df05f",
+    "input_sha256": "ecf7d2bcc0c8b46f06fa1c76c9b4dbb2fbe82d4fcebbd295c21bf444c93ddf24"
+  },
+  "zoom": {
+    "text": "zoom",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "o",
+        "ː",
+        "m"
+      ]
+    ],
+    "seconds": 1.573,
+    "bytes": 69396,
+    "sha256": "b9afa8f3a29e7ffe25215ae5d58a23ed1f1b002ae555cc0f16fb45f06affc413",
+    "input_sha256": "01d510c9abec9708d54706649eeb82558d241cd4847e5b142ba0624657142372"
+  },
+  "zoon": {
+    "text": "zoon",
+    "kind": "word",
+    "scale": 1.35,
+    "phonemes": [
+      [
+        "z",
+        "ˈ",
+        "o",
+        "ː",
+        "n"
+      ]
+    ],
+    "seconds": 1.584,
+    "bytes": 69908,
+    "sha256": "4690ec9b83f752a6d2759adb3673250091887d5b498a202b31a620de58819671",
+    "input_sha256": "03112c9be0944b65057f0dea04020c956c9220dd6ffb7a43c25a4190da952e86"
+  }
+}
