@@ -1,0 +1,8 @@
+LEESHELD AI – KERN 3
+
+1. Zet deze map op je Mac.
+2. Dubbelklik Maak_AI_stem.command. Als macOS blokkeert: rechtermuisklik > Open.
+3. Wacht totdat alle geluidsbestanden klaar zijn. Internet is alleen bij deze eerste stap nodig.
+4. Voor betrouwbaar offline gebruik op iPad: plaats de complete map op een lokale webserver of installeer als offline webapp. Alleen index.html openen vanuit Bestanden kan audio blokkeren door Safari-beveiliging.
+
+Let op: zolang de audio-map leeg is, gebruikt de app nog de standaard browserstem.

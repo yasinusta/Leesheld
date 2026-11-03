@@ -1,0 +1,21 @@
+{
+  "name": "Leesheld AI – Kern 3",
+  "short_name": "Leesheld",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf7ff",
+  "theme_color": "#087fcb",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
